@@ -122,5 +122,11 @@ Supports task creation, status updates, priority handling, and workflow tracking
 
 Manoj D S
 
-GitHub:  
-https://github.com/Manoj16ds
+Author
+Manoj D S
+
+GitHub Repository:
+https://github.com/Manoj16ds/Team-task-manager
+
+Live Application:
+https://your-vercel-url.vercel.app
