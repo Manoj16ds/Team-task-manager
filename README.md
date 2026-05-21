@@ -129,4 +129,4 @@ GitHub Repository:
 https://github.com/Manoj16ds/Team-task-manager
 
 Live Application:
-https://your-vercel-url.vercel.app
+https://team-task-manager-chi-teal.vercel.app/
