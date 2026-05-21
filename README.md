@@ -120,7 +120,7 @@ Supports task creation, status updates, priority handling, and workflow tracking
 
 # Author
 
-Manoj
+Manoj D S
 
 GitHub:  
 https://github.com/Manoj16ds
